@@ -1,4 +1,4 @@
 # Cybersport_DS
-Анализ данных о матчах в игре "LoL" и предсказание победы команды
+Анализ данных матчей высшей лиги в игре "LoL" и предсказание победы команды
 
-Analysis of match data in the game "LoL" and prediction of the team's victory
+Analysis of data from high diamond ranked in the game "LoL" and prediction of the team's victory
